@@ -1,7 +1,7 @@
 <h1 align="center">Michel Cardoso</h1>
 
 <p align="center">
-  <b>IT Infrastructure | Cloud Computing | DevOps & Cybersecurity</b><br>
+  <b>Cloud | IT Infrastructure & Cybersecurity | 2x AWS</b><br>
   IT professional focused on infrastructure, cloud technologies, security, and continuous learning.
 </p>
 
@@ -38,11 +38,11 @@
 **Cloud Computing & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Networking & IT Infrastructure**
 
@@ -55,7 +55,7 @@
 
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Zscaler](https://img.shields.io/badge/Zscaler-0078D4style=flat-square&logo=zscaler&logoColor=white)
+![Zscaler](https://img.shields.io/badge/Zscaler-0078D4?style=flat-square&logo=zscaler&logoColor=white)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike_Falcon-E01F27?style=flat-square&logo=crowdstrike&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
