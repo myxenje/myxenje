@@ -27,7 +27,6 @@
 ## 🏅 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner">
   <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner">
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate">
 </p>
@@ -84,15 +83,6 @@
 
 ---
 
-## 📚 Currently Learning & Developing
-
-- ☁️ AWS cloud architecture, infrastructure, and security
-- ⚙️ DevOps practices and cloud automation
-- 🔐 Cybersecurity and identity and access management
-- 🐧 Linux administration through hands-on study labs
-
----
-
 ## 🤝 Soft Skills
 
 - Interpersonal communication and teamwork
@@ -104,10 +94,19 @@
 
 ---
 
+## 📚 Currently Learning & Developing
+
+- ☁️ AWS cloud architecture, infrastructure, and security
+- ⚙️ DevOps practices and cloud automation
+- 🔐 Cybersecurity and identity and access management
+- 🐧 Linux administration through hands-on study labs
+
+---
+
 ## 📫 Let's Connect
 
 I'm always open to connecting with IT professionals and discussing cloud computing, infrastructure, DevOps, and cybersecurity.
 
-Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/michel-cardoso-baa74a309/) or [email](mailto:myxen.douglas@gmail.com).
+Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/michel-cardoso-baa74a309/)
 
 ---
