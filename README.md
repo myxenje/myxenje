@@ -17,7 +17,7 @@
 - 💻 **5 years of experience** in on-site and remote IT support, IT infrastructure, and corporate environment administration
 - 🔐 Experienced in user and access management, IT asset management, system monitoring, and information security tools
 - ☁️ Knowledge of **AWS and Microsoft Azure**, with hands-on experience in corporate IT environments
-- 🛠️ Familiar with Active Directory, Microsoft Entra ID, Zscaler, CrowdStrike Falcon, Zabbix, and ITSM platforms
+- 🛠️ Familiar with Active Directory, Microsoft Intune, Microsoft Entra ID, Zscaler, CrowdStrike Falcon, Zabbix, and ITSM platforms
 - 🎓 Degree in **Systems Analysis and Development**
 - 📚 Currently pursuing a postgraduate degree in **DevOps and Cloud Architecture**
 - 🎯 Professional interests: **Cloud Architecture, Cloud Security, Infrastructure, and DevOps**
