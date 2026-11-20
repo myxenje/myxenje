@@ -11,6 +11,7 @@
 </p>
 
 ---
+
 ## 👋 About Me
 
 - ☁️ Cloud Computing with a focus on **AWS and Microsoft Azure**
@@ -22,6 +23,7 @@
 - 🎯 Professional interests: **Cloud Architecture, Cloud Security, Infrastructure, and DevOps**
 
 ---
+
 ## 🏅 Certifications
 
 <p>
@@ -30,6 +32,7 @@
 </p>
 
 ---
+
 ## 🛠️ Technical Skills
 
 **☁️ Cloud Computing**
@@ -96,6 +99,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 ---
+
 ## 🤝 Soft Skills
 
 - Interpersonal communication and teamwork
@@ -106,6 +110,7 @@
 - Fast learner with a commitment to continuous development
 
 ---
+
 ## 📚 Currently Learning & Developing
 
 - ☁️ AWS cloud architecture, infrastructure, and security
@@ -115,6 +120,7 @@
 - 🐧 Linux administration through hands-on study labs
 
 ---
+
 ## 📫 Let's Connect
 
 I'm always open to connecting with IT professionals and discussing cloud computing, infrastructure, DevOps, and cybersecurity.
