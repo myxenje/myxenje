@@ -126,6 +126,5 @@
 I'm always open to connecting with IT professionals and discussing cloud computing, infrastructure, DevOps, and cybersecurity.
 
 Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/michel-cardoso-cardoso/)
-Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/michel-cardoso-baa74a309/).
 
 ---
