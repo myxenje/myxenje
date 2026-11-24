@@ -5,14 +5,10 @@
 <h4 align="center">Cloud Computing | DevOps | IT Infrastructure | 2x AWS Certified ☁️💜<br>IT professional focused on cloud technologies, infrastructure, security, automation, and continuous learning.</h4>
  
 <p align="center">
-  <a href="https://www.linkedin.com/in/michel-douglas-cardoso/">
-    <img src="https://img.shields.io/badge/-LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:myxen.douglas@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-800080?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/michel-cardoso-cardoso/"><img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:myxen.douglas@gmail.com"><img src="https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-<br>
+
 <h2 align="left" style="margin-bottom: 0; padding: 0;">About Me</h2>
 <table border="0">
   <tr>
@@ -132,16 +128,16 @@
   <h2>📘 My Top Projects</h2>
   <p align="left">
     <a href="https://github.com/myxenje/orderflow-serverless-aws" style="display: inline-block; margin-right: 10px;">
-      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=orderflow-serverless-aws&theme=jolly" alt="REPO_NAME_1">
+      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=orderflow-serverless-aws&theme=jolly" alt="orderflow-serverless-aws">
     </a>
-    <a href="https://github.com/myxenje/crud-books-aws style="display: inline-block;">
-      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=crud-books-aws&theme=jolly" alt="REPO_NAME_2">
+    <a href="https://github.com/myxenje/crud-books-aws" style="display: inline-block;">
+      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=crud-books-aws&theme=jolly" alt="crud-books-aws">
     </a>
-      <a href="https://github.com/myxenje/api-catalogo-aws style="display: inline-block;">
-      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=api-catalogo-aws&theme=jolly" alt="REPO_NAME_2">
+      <a href="https://github.com/myxenje/api-catalogo-aws" style="display: inline-block;">
+      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=api-catalogo-aws&theme=jolly" alt="api-catalogo-aws">
     </a>
-      <a href="https://github.com/myxenje/user-register style="display: inline-block;">
-      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=user-register&theme=jolly" alt="REPO_NAME_2">
+      <a href="https://github.com/myxenje/user-register" style="display: inline-block;">
+      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=user-register&theme=jolly" alt="user-register">
     </a>
   </p>
 <br>
