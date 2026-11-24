@@ -24,7 +24,7 @@
       <h5 align="left">🟣 🎯 Professional interests: <strong>Cloud Architecture, Cloud Security, Infrastructure, and DevOps</strong>. 🚀</h5>
     </td>
     <td width="30%">
-      <img src="gifs/bonzi.png" width="100%" height="auto">
+      <img src="img/bonzi.png" width="100%" height="auto">
     </td>
   </tr>
 </table>
