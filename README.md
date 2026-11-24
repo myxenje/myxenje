@@ -1,7 +1,8 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lacquer&size=30&letterSpacing=&duration=3000&pause=1000&color=EF2DFF&center=true&width=700&lines=Hi%2C+nice+to+meet+you%2C+I%27m+Michel!;Cloud+%7C+DevOps+%7C+Cybersecurity;2x+AWS+Certified" alt="Typing SVG" /></a>
+  <img src="img/name.svg" alt="Michel Cardoso" />
 </h1>
-<h4 align="center">Cloud | DevOps | IT Infrastructure & Cybersecurity | 2x AWS ☁️💜<br>IT professional focused on cloud technologies, infrastructure, security, automation, and continuous learning.</h4>
+
+<h4 align="center">Cloud Computing | DevOps | IT Infrastructure | 2x AWS Certified ☁️💜<br>IT professional focused on cloud technologies, infrastructure, security, automation, and continuous learning.</h4>
  
 <p align="center">
   <a href="https://www.linkedin.com/in/michel-douglas-cardoso/">
@@ -16,12 +17,12 @@
 <table border="0">
   <tr>
     <td>
-      <h5 align="left">🟣 ☁️ Cloud Computing with a focus on <strong>AWS and Microsoft Azure</strong>.</h5>
-      <h5 align="left">🟣 🔐 Identity and access management, information security, and monitoring in corporate environments.</h5>
-      <h5 align="left">🟣 ⚙️ Automation with <strong>PowerShell, Bash, and Python</strong>; CI/CD with <strong>GitHub Actions and AWS CodePipeline</strong>.</h5>
-      <h5 align="left">🟣 🐳 Containerization with <strong>Docker, Docker Compose, and AWS ECS</strong>.</h5>
-      <h5 align="left">🟣 🎓 Degree in <strong>Systems Analysis and Development</strong>, currently pursuing a postgraduate degree in <strong>DevOps and Cloud Architecture</strong>.</h5>
-      <h5 align="left">🟣 🎯 Professional interests: <strong>Cloud Architecture, Cloud Security, Infrastructure, and DevOps</strong>. 🚀</h5>
+      <h5 align="left">🟣 Cloud Computing with a focus on <strong>AWS and Microsoft Azure</strong>.</h5>
+      <h5 align="left">🟣 Identity and access management, information security, and monitoring in corporate environments.</h5>
+      <h5 align="left">🟣 Automation with <strong>PowerShell, Bash, and Python</strong>; CI/CD with <strong>GitHub Actions and AWS CodePipeline</strong>.</h5>
+      <h5 align="left">🟣 Containerization with <strong>Docker, Docker Compose, and AWS ECS</strong>.</h5>
+      <h5 align="left">🟣 Degree in <strong>Systems Analysis and Development</strong>, currently pursuing a postgraduate degree in <strong>DevOps and Cloud Architecture</strong>.</h5>
+      <h5 align="left">🟣 Professional interests: <strong>Cloud Architecture, Cloud Security, Infrastructure, and DevOps</strong>.</h5>
     </td>
     <td width="30%">
       <img src="img/bonzi.png" width="100%" height="auto">
@@ -37,7 +38,7 @@
 </div>
 <br/><br/>
  
-<h3 align="center">📚 Languages and tools I use</h3>
+<h3 align="center">📚 Languages and Tools</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,git,github,linux,bash,powershell" /><br>
@@ -50,9 +51,10 @@
   <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate">
 </p>
 <br>
-<details open>
-  <summary><h2>🛠️ Technical Skills</h2></summary>
-**☁️ Cloud Computing**
+
+  <h2>🛠️ Technical Skills</h2>
+  
+☁️ **Cloud Computing**
  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
@@ -61,7 +63,7 @@
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
  
-**🚀 DevOps, CI/CD & Containers**
+🚀 **DevOps, CI/CD & Containers**
  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -71,7 +73,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
  
-**🔐 Security & Identity Management**
+🔐 **Security & Identity Management**
  
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -80,31 +82,21 @@
 ![Zscaler](https://img.shields.io/badge/Zscaler-0078D4?style=flat-square&logo=zscaler&logoColor=white)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike_Falcon-E01F27?style=flat-square&logo=crowdstrike&logoColor=white)
  
-**📊 Monitoring & Observability**
+📊 **Monitoring & Observability**
  
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
  
-**🌐 Networking & Operating Systems**
+🌐 **Networking & Operating Systems**
  
 ![Networking](https://img.shields.io/badge/Networking-167D9A?style=flat-square&logo=cisco&logoColor=white)
 ![HPE Aruba](https://img.shields.io/badge/HPE_Aruba-01A982?style=flat-square&logo=arubanetworks&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
- 
-**🗂️ ITSM & Asset Management**
- 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=flat-square&logo=servicenow&logoColor=white)
-![DeskManager](https://img.shields.io/badge/DeskManager-00A3E0?style=flat-square&logoColor=white)
-![GLPI](https://img.shields.io/badge/GLPI-2B579A?style=flat-square&logo=glpi&logoColor=white)
-![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=flat-square&logo=microsoftonedrive&logoColor=white)
- 
-**💻 Programming, Scripting & APIs**
+
+ 💻 **Programming, Scripting & APIs**
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -114,47 +106,45 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+
+🗂️ **ITSM & Asset Management**
  
-</details>
+![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=flat-square&logo=servicenow&logoColor=white)
+![DeskManager](https://img.shields.io/badge/DeskManager-00A3E0?style=flat-square&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-2B579A?style=flat-square&logo=glpi&logoColor=white)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=flat-square&logo=microsoftonedrive&logoColor=white)
+ 
 <br>
-<details open>
-  <summary><h2>🤝 Soft Skills</h2></summary>
-- Interpersonal communication and teamwork
-- Organization and priority management
-- Analytical thinking and problem-solving
-- Proactivity and adaptability
-- Ability to work effectively under pressure
-- Fast learner with a commitment to continuous development
-</details>
+
+  <h2>📚 Currently Learning & Developing</h2>
+☁️ AWS cloud architecture, infrastructure, and security.
+⚙️ DevOps practices, CI/CD pipelines, and cloud automation.
+🐳 Containers and orchestration on AWS (ECS).
+🔐 Cybersecurity and identity and access management.
+🐧 Linux administration through hands-on study labs.
+
 <br>
-<details open>
-  <summary><h2>📚 Currently Learning & Developing</h2></summary>
-- ☁️ AWS cloud architecture, infrastructure, and security
-- ⚙️ DevOps practices, CI/CD pipelines, and cloud automation
-- 🐳 Containers and orchestration on AWS (ECS)
-- 🔐 Cybersecurity and identity and access management
-- 🐧 Linux administration through hands-on study labs
-</details>
+
 <br>
-<details open>
-  <summary><h2>📘 My Top Projects</h2></summary>
+  <h2>📘 My Top Projects</h2>
   <p align="left">
     <a href="https://github.com/myxenje/orderflow-serverless-aws" style="display: inline-block; margin-right: 10px;">
-      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=REPO_NAME_1&theme=jolly" alt="REPO_NAME_1">
+      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=orderflow-serverless-aws&theme=jolly" alt="REPO_NAME_1">
     </a>
     <a href="https://github.com/myxenje/crud-books-aws style="display: inline-block;">
-      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=REPO_NAME_2&theme=jolly" alt="REPO_NAME_2">
+      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=crud-books-aws&theme=jolly" alt="REPO_NAME_2">
     </a>
       <a href="https://github.com/myxenje/api-catalogo-aws style="display: inline-block;">
-      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=REPO_NAME_2&theme=jolly" alt="REPO_NAME_2">
+      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=api-catalogo-aws&theme=jolly" alt="REPO_NAME_2">
     </a>
       <a href="https://github.com/myxenje/user-register style="display: inline-block;">
-      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=REPO_NAME_2&theme=jolly" alt="REPO_NAME_2">
+      <img width="38%" src="https://github-readme-stats.vercel.app/api/pin/?username=myxenje&repo=user-register&theme=jolly" alt="REPO_NAME_2">
     </a>
   </p>
-</details>
--->
- 
+<br>
 <h2 align="center">📫 Let's Connect</h2>
 <p align="center">
   I'm always open to connecting with IT professionals and discussing cloud computing, infrastructure, DevOps, and cybersecurity.<br>
