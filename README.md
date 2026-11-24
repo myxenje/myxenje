@@ -5,7 +5,7 @@
 <h4 align="center">Cloud Computing | DevOps | IT Infrastructure | 2x AWS Certified ☁️💜<br>IT professional focused on cloud technologies, infrastructure, security, automation, and continuous learning.</h4>
  
 <p align="center">
-  <a href="https://www.linkedin.com/in/michel-cardoso-cardoso/"><img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/michel-douglas-cardoso/"><img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:myxen.douglas@gmail.com"><img src="https://img.shields.io/badge/Email-800080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
